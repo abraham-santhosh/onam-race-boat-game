@@ -15,7 +15,10 @@ Compete with friends, dodge obstacles, and paddle your way to victory! 🚣‍�
 - Obstacles for extra challenge
 - Scoreboard tracking player distance
 - Festive Onam vibes 🎊
-
+  
+AI tools used
+-Gemini
+-Chatgpt
 
 
 ## 🛠 Requirements
