@@ -16,13 +16,13 @@ Compete with friends, dodge obstacles, and paddle your way to victory! 🚣‍�
 - Scoreboard tracking player distance
 - Power-ups: Four different types of power-up circles appear randomly on the river:
 
-Speed Boost (Orange 🟠): Gives a temporary horizontal speed increase.
+    Speed Boost (Orange 🟠): Gives a temporary horizontal speed increase.
 
-Shield (Cyan 🔵): Protects your boat from the next obstacle collision.
+    Shield (Cyan 🔵): Protects your boat from the next obstacle collision.
 
-Payasam Boost (White ⚪️): Gives a large, immediate forward speed burst.
+    Payasam Boost (White ⚪️): Gives a large, immediate forward speed burst.
 
-Banana Slip (Yellow 🟡): A trap that causes your boat to slide backward
+    Banana Slip (Yellow 🟡): A trap that causes your boat to slide backward
 - Festive Onam vibes 🎊
   
 AI tools used
