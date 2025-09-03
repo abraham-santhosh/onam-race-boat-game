@@ -16,6 +16,8 @@ Compete with friends, dodge obstacles, and paddle your way to victory! 🚣‍�
 - Scoreboard tracking player distance
 - Festive Onam vibes 🎊
 
+
+
 ## 🛠 Requirements
 - Python 3.10+  
 - Pygame
@@ -26,3 +28,7 @@ pip install pygame
 
 Run the game
 python day2.py
+
+
+
+
